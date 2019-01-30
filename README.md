@@ -1,4 +1,8 @@
-## Welcome to GitHub Pages
+## Hello Laura
+
+Check out this sweet GitHub Pages page I made. It might be how I host, but I'm definitely not using their ~~garbage~~ elegant themes. Jekyll is one option for stuff as is Hugo, and Hugo is bae because it's written in [Golang](https://golang.org/)
+
+## GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/Natador/PagesTest/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
